@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/turginbay_?igsh=a3gzbTA1azdrazl2&utm_source=qr">
+  <a href="https://www.instagram.com/turginbay_?igsh=a3gzbTA1azdrazl2utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
