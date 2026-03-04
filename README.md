@@ -1,6 +1,7 @@
 # Hi, I'm Turginbay 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=Hi%20I'm%20Turginbay&fontSize=40&fontAlignY=35)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turginbay-dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turginbay-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 🎓 2nd year student at Satbayev University (KZ)  
 💻 Full-Stack path: Django + Frontend | Also building with Flutter  
@@ -22,6 +23,8 @@
 - **Tools:** Git, GitHub, VS Code, Docker, Linux
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turginbay-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turginbay-dev&layout=compact&theme=tokyonight)
 
 ## 🔥 Featured Projects
 - 🎵 **QazSound** — music platform (Django)
