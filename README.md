@@ -44,6 +44,7 @@
 
 <div align="center">
   <img
+    <img src="https://github-readme-stats.vercel.app/api?username=turginbay-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
     src="https://github-readme-stats.vercel.app/api?username=turginbay-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
     alt="GitHub Stats"
     width="48%"
