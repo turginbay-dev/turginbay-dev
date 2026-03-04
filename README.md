@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="center">🌌 3D Contribution Graph</h3>
+<h3 align="center"> 3D Contribution Graph</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/turginbay-dev/turginbay-dev/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center"> Contribution Snake</h3>
 
 <div align="center">
 
