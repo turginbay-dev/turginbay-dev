@@ -42,30 +42,10 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">🌌 3D Contribution Graph</h3>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=turginbay-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turginbay-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=turginbay-dev&theme=tokyonight&hide_border=true" width="90%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=turginbay-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=turginbay-dev&theme=tokyonight" width="95%" />
 </div>
 
 ---
@@ -115,6 +95,10 @@
 
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="#">
