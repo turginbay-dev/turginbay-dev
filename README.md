@@ -80,6 +80,22 @@
 
 ---
 
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turginbay-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turginbay-dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+
+
+
+
+---
+
 ### 📸 Screenshots & Demos
 
 > Check my pinned repositories below for screenshots, setup steps and demo videos.
