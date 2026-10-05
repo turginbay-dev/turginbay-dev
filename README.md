@@ -1,127 +1,41 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Turginbay%20Bekzat%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Web%20%7C%20Flutter%20Developer&descAlignY=55&descAlign=50" width="100%" />
-</div>
+# Bekzat Turginbay
 
-<h1 align="center">Welcome to my digital workspace! 🚀</h1>
+Software Engineering student at **Satbayev University (2024–2028)**, based in **Almaty, Kazakhstan**.
 
-<p align="center">
-  <em>Crafting seamless digital experiences from Kazakhstan 🇰🇿</em>
-</p>
+I am focused on backend development and seeking **Junior Backend Developer**, **Software Engineering Intern**, **Backend Intern**, and **Junior Software Developer** opportunities. I develop practical skills by building and deploying web, automation, and mobile projects.
 
----
+## Featured projects
 
-<div align="center">
+### [HdQaz — Video Processing & Streaming Platform](https://github.com/turginbay-dev/HdQaz)
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%7C+Flutter+Developer;Building+cool+projects;Always+learning+new+technologies" />
+My strongest portfolio project. My work includes:
 
-<br><br>
+- Next.js frontend and Supabase database/backend logic.
+- Cloudflare R2 media storage.
+- Automated video processing with Python and FFmpeg.
+- HLS conversion for adaptive streaming.
+- A processing queue with status tracking, retries, and error handling.
+- A Python worker deployed on Ubuntu with Docker.
+- Supabase data for movies, series, seasons, and episodes and automation from video ingestion to publication.
+- Admin/content publishing workflow, deployment with Vercel and Cloudflare, and DNS/domain configuration.
 
-<img src="https://komarev.com/ghpvc/?username=turginbay-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+### [NaqUsta — Construction Services Marketplace App Concept](https://github.com/turginbay-dev/NaqUsta)
 
-</div>
+A marketplace app concept connecting customers, individual workers, construction brigades, and construction-material stores.
 
----
+My work includes Flutter/Dart development, Firebase Authentication, Firestore, Firebase Storage, push notifications, role-based user flows, profile/job request storage, photo/portfolio uploads, customer/worker/brigade logic, and marketplace architecture.
 
-### 👨‍💻 About Me
+## Technical skills
 
-- 🎓 **2nd-year student** at Satbayev University, KZ  
-- 💻 **Path:** Full-Stack Web Development (Django) & Mobile Apps (Flutter)  
-- 🚀 **Currently exploring:** Clean Architecture, UI/UX Design, and Scalable Backend Systems  
-- 🎯 **Career Goal:** Become a world-class Senior Full Stack Developer  
-- ⚡ **Fun fact:** I love bridging the gap between elegant user interfaces and robust databases  
+- **Backend and data:** Python, SQL, REST APIs, Supabase, Firebase; Django fundamentals.
+- **Tools and deployment:** Git, GitHub, Linux CLI, Docker, Cloudflare, Vercel.
+- **Media processing:** FFmpeg, HLS video streaming.
+- **Web and mobile:** Next.js, Flutter, Dart, HTML, CSS, Tailwind CSS.
 
----
+## Languages
 
-<h3 align="center">🧰 Tech Stack</h3>
+Kazakh: native · Russian: confident · English: A2–B1, actively improving.
 
-<div align="center">
+## Connect
 
-<img src="https://skillicons.dev/icons?i=python,django,flutter,js,html,css,firebase,git,linux,vscode" />
-
-</div>
-
----
-
-<h3 align="center"> 3D Contribution Graph</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/turginbay-dev/turginbay-dev/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
-</div>
-
----
-
-<h3 align="center"> Contribution Snake</h3>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/turginbay-dev/turginbay-dev/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
----
-
-<h3 align="center">💡 Dev Quote</h3>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-### 🔥 Featured Projects
-
-| 🏆 Project | 📝 Description | 🛠️ Tech Stack |
-|:---:|:---|:---|
-| 🎵 **QazSound** | A robust music platform for streaming and downloading audio files | Python, Django, HTML/CSS |
-| 📱 **Flutter App** *(Private)* | Real-time chat mobile application with secure multiple user roles | Flutter, Firebase |
-| 🤖 **Telegram Bot** | Automation utilities bot designed to streamline workflows | Python, Telegram Bot API |
-
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turginbay-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turginbay-dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-
-
-
-
----
-
-### 📸 Screenshots & Demos
-
-> Check my pinned repositories below for screenshots, setup steps and demo videos.
-
----
-
-<h3 align="center">📫 Let's Connect!</h3>
-
-<p align="center">
-  <a href="https://github.com/turginbay-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/bekzat-turginbay-75b5a4355?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxaCT1nCgRw2T6gnnwTP90g%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/turginbay_?igsh=a3gzbTA1azdrazl2utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="bekzattursi25nbai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%">
-</p>
+[LinkedIn](https://www.linkedin.com/in/bekzat-turginbay-75b5a4355/) · [GitHub](https://github.com/turginbay-dev)
